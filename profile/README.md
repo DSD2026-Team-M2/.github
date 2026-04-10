@@ -1,9 +1,12 @@
 <div align="center">
 
-<!-- Optional banner: replace the src after you have a generated image -->
-<!--
-<img src="https://your-image-url-here" alt="DSD2026 Team M2 banner" width="100%" />
--->
+<p>
+  <img
+    src="https://raw.githubusercontent.com/DSD2026-Team-M2/.github/main/src/title.png"
+    alt="DSD2026 Team M2 banner"
+    width="100%"
+  />
+</p>
 
 # DSD2026 Team M2
 
@@ -131,6 +134,7 @@ It is kept as a public-facing archive of how the team presents its role, system 
 
 ## Repository Cards
 
+<!--
 <p>
   <a href="https://github.com/DSD2026-Team-M2/project-main-web">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DSD2026-Team-M2&repo=project-main-web&show_owner=true&description_lines_count=2" alt="project-main-web card" />
@@ -145,6 +149,79 @@ It is kept as a public-facing archive of how the team presents its role, system 
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DSD2026-Team-M2&repo=m2-recruitment&show_owner=true&description_lines_count=2" alt="m2-recruitment card" />
   </a>
 </p>
+-->
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <p>
+        <strong><a href="https://github.com/DSD2026-Team-M2/project-main-web">project-main-web</a></strong>
+      </p>
+      <p>The main product-facing web application for the rehabilitation workflow.</p>
+      <p>
+        <a href="https://github.com/DSD2026-Team-M2/project-main-web">
+          <img src="https://img.shields.io/github/stars/DSD2026-Team-M2/project-main-web?style=flat-square&logo=github&label=stars" alt="project-main-web stars" />
+        </a>
+        <a href="https://github.com/DSD2026-Team-M2/project-main-web">
+          <img src="https://img.shields.io/github/languages/top/DSD2026-Team-M2/project-main-web?style=flat-square&label=top%20language" alt="project-main-web top language" />
+        </a>
+        <a href="https://github.com/DSD2026-Team-M2/project-main-web">
+          <img src="https://img.shields.io/github/last-commit/DSD2026-Team-M2/project-main-web?style=flat-square&label=last%20commit" alt="project-main-web last commit" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <p>
+        <strong><a href="https://github.com/DSD2026-Team-M2/project-portal">project-portal</a></strong>
+      </p>
+      <p>The process display, collaboration index, and delivery hub for the project.</p>
+      <p>
+        <a href="https://github.com/DSD2026-Team-M2/project-portal">
+          <img src="https://img.shields.io/github/stars/DSD2026-Team-M2/project-portal?style=flat-square&logo=github&label=stars" alt="project-portal stars" />
+        </a>
+        <a href="https://github.com/DSD2026-Team-M2/project-portal">
+          <img src="https://img.shields.io/github/languages/top/DSD2026-Team-M2/project-portal?style=flat-square&label=top%20language" alt="project-portal top language" />
+        </a>
+        <a href="https://github.com/DSD2026-Team-M2/project-portal">
+          <img src="https://img.shields.io/github/last-commit/DSD2026-Team-M2/project-portal?style=flat-square&label=last%20commit" alt="project-portal last commit" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p>
+        <strong><a href="https://github.com/DSD2026-Team-M2/m2-recruitment">m2-recruitment</a></strong>
+      </p>
+      <p>The recruitment and team-introduction site for M2.</p>
+      <p>
+        <a href="https://github.com/DSD2026-Team-M2/m2-recruitment">
+          <img src="https://img.shields.io/github/stars/DSD2026-Team-M2/m2-recruitment?style=flat-square&logo=github&label=stars" alt="m2-recruitment stars" />
+        </a>
+        <a href="https://github.com/DSD2026-Team-M2/m2-recruitment">
+          <img src="https://img.shields.io/github/languages/top/DSD2026-Team-M2/m2-recruitment?style=flat-square&label=top%20language" alt="m2-recruitment top language" />
+        </a>
+        <a href="https://github.com/DSD2026-Team-M2/m2-recruitment">
+          <img src="https://img.shields.io/github/last-commit/DSD2026-Team-M2/m2-recruitment?style=flat-square&label=last%20commit" alt="m2-recruitment last commit" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <p>
+        <strong><a href="https://github.com/DSD2026-Team-M2">Organization</a></strong>
+      </p>
+      <p>Public repositories, profile surface, and shared delivery context for Team M2.</p>
+      <p>
+        <a href="https://github.com/DSD2026-Team-M2">
+          <img src="https://img.shields.io/github/followers/DSD2026-Team-M2?style=flat-square&logo=github&label=followers" alt="organization followers" />
+        </a>
+        <a href="https://github.com/DSD2026-Team-M2/.github">
+          <img src="https://img.shields.io/github/last-commit/DSD2026-Team-M2/.github?style=flat-square&label=profile%20updated" alt="organization profile updated" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## Tech Stack
 
@@ -156,11 +233,27 @@ Our web work commonly uses **Vite**, **React**, **TypeScript**, **Tailwind CSS**
 
 ## Live Signals
 
-### Language Distribution
+<!-- ### Language Distribution -->
 
+<!--
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DSD2026-Team-M2&layout=donut&langs_count=8&size_weight=0.5&count_weight=0.5" alt="Top languages across DSD2026-Team-M2 repositories" />
 </p>
+-->
+
+<!-- <p>
+  <a href="https://github.com/DSD2026-Team-M2/project-main-web">
+    <img src="https://img.shields.io/github/languages/top/DSD2026-Team-M2/project-main-web?style=flat-square&label=project-main-web" alt="project-main-web top language" />
+  </a>
+  <a href="https://github.com/DSD2026-Team-M2/project-portal">
+    <img src="https://img.shields.io/github/languages/top/DSD2026-Team-M2/project-portal?style=flat-square&label=project-portal" alt="project-portal top language" />
+  </a>
+  <a href="https://github.com/DSD2026-Team-M2/m2-recruitment">
+    <img src="https://img.shields.io/github/languages/top/DSD2026-Team-M2/m2-recruitment?style=flat-square&label=m2-recruitment" alt="m2-recruitment top language" />
+  </a>
+</p> -->
+
+<!-- This replaces the disabled aggregate language chart with a stable per-repository language snapshot. -->
 
 ### Star History
 
